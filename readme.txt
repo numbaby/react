@@ -10,4 +10,4 @@ Isn't it that great!
 Thanks a lot for your great support!
 Creating a new branch is quick and simple.
 TEST on-off MERGE.
-
+--Bug 01 is fixed now, yeah! 
