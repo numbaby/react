@@ -8,6 +8,6 @@ Create a change is not that easy!
 Just Do it by youself.
 Isn't it that great!
 Thanks a lot for your great support!
-
+Creating a new branch is quick AND simple.
 
 
