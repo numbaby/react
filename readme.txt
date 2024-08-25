@@ -12,6 +12,6 @@ Creating a new branch is quick and simple.
 TEST on-off MERGE.
 
 --Bug 01 is fixed now, yeah! 
-
+--But 02 is fixed now, go ahead!
 Continue working on Dev but not finished yet, stash here, now it's completed.
 
